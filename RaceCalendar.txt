@@ -1,4 +1,5 @@
 {
+  "released": true,
   "results": [
     {
       "name": "Tetr4ctis",
@@ -42,7 +43,7 @@
       "f1": "http://live.tetractis.it/live/motori/",
       "motogp": "http://live.tetractis.it/live/motori/"
     }    
-    ],
+  ],
   "timetable": {
     "f1": "https://www.formulapassion.it/motorsport/formula-1/calendario-f1-2020-orari-sky-tv8-dirette",
     "motogp": "https://www.formulapassion.it/motorsport/moto/calendario-motogp-2020-orari-sky-tv8-dirette"
