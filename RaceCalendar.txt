@@ -47,5 +47,259 @@
   "timetable": {
     "f1": "https://www.formulapassion.it/motorsport/formula-1/calendario-f1-2020-orari-sky-tv8-dirette",
     "motogp": "https://www.formulapassion.it/motorsport/moto/calendario-motogp-2020-orari-sky-tv8-dirette"
-  }
+  },
+  "race": [
+        {
+            "tipo": "motogp",
+            "gp": "Qatar",
+            "nation": "QAT",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Australia",
+            "nation": "AUS",
+            "id": "61067"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Thailandia",
+            "nation": "THA",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Bahrain",
+            "nation": "BRN",
+            "id": "61075"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Vietnam",
+            "nation": "VIE",
+            "id": "61230"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Americhe",
+            "nation": "USA",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Cina",
+            "nation": "CHI",
+            "id": "61083"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Argentina",
+            "nation": "ARG",
+            "id": ""
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Spagna",
+            "nation": "ESP",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Paesi Bassi",
+            "nation": "NED",
+            "id": "61147"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Spagna",
+            "nation": "ESP",
+            "id": "61099"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Francia",
+            "nation": "FRA",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Monaco",
+            "nation": "MON",
+            "id": "61107"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Italia",
+            "nation": "ITA",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Azerbaigian",
+            "nation": "AZE",
+            "id": "61091"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Catalunya",
+            "nation": "CAT",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Canada",
+            "nation": "CAN",
+            "id": "61115"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Germania",
+            "nation": "GER",
+            "id": ""
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Olanda",
+            "nation": "NED",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Francia",
+            "nation": "FRA",
+            "id": "61123"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Austria",
+            "nation": "AUT",
+            "id": "61131"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Finlandia",
+            "nation": "FIN",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "G. Bretagna",
+            "nation": "GBR",
+            "id": "61139"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Ungheria",
+            "nation": "HUN",
+            "id": "61155"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Rep.Ceca",
+            "nation": "CZE",
+            "id": ""
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Austria",
+            "nation": "AUT",
+            "id": ""
+        },
+        {
+            "tipo": "motogp",
+            "gp": "G. Bretagna",
+            "nation": "GBR",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Belgio",
+            "nation": "BEL",
+            "id": "61163"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Italia",
+            "nation": "ITA",
+            "id": "61171"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "San Marino",
+            "nation": "SMR",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Singapore",
+            "nation": "SIN",
+            "id": "61179"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Russia",
+            "nation": "RUS",
+            "id": "61187"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Aragona",
+            "nation": "ESP",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Giappone",
+            "nation": "JPN",
+            "id": "61195"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Giappone",
+            "nation": "JPN",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Stati Uniti",
+            "nation": "USA",
+            "id": "61211"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Australia",
+            "nation": "AUT",
+            "id": ""
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Malesia",
+            "nation": "MAS",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Messico",
+            "nation": "MEX",
+            "id": "61203"
+        },
+        {
+            "tipo": "f1",
+            "gp": "Brasile",
+            "nation": "BRA",
+            "id": "61219"
+        },
+        {
+            "tipo": "motogp",
+            "gp": "Valencia",
+            "nation": "SPA",
+            "id": ""
+        },
+        {
+            "tipo": "f1",
+            "gp": "Abu Dhabi",
+            "nation": "UAE",
+            "id": "61227"
+        }
+    ]
 }
