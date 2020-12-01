@@ -24,23 +24,23 @@
   "news": [
     {
       "name": "Gazzetta dello Sport",
-      "f1": "http://live.tetractis.it/live/motori/",
-      "motogp": "http://live.tetractis.it/live/motori/"
+      "f1": "https://www.gazzetta.it/rss/formula-1.xml",
+      "motogp": "https://www.gazzetta.it/rss/motociclismo.xml"
     },
     {
       "name": "Corriere dello Sport",
-      "f1": "http://live.tetractis.it/live/motori/",
-      "motogp": "http://live.tetractis.it/live/motori/"
+      "f1": "https://www.corrieredellosport.it/rss/formula-1",
+      "motogp": "https://www.corrieredellosport.it/rss/moto"
     },
     {
       "name": "Eurosport",
-      "f1": "http://live.tetractis.it/live/motori/",
-      "motogp": "http://live.tetractis.it/live/motori/"
+      "f1": "https://it.eurosport.com/formula-1/rss.xml",
+      "motogp": "https://it.eurosport.com/motogp/rss.xml"
     },
     {
       "name": "MotorSport",
-      "f1": "http://live.tetractis.it/live/motori/",
-      "motogp": "http://live.tetractis.it/live/motori/"
+      "f1": "https://it.motorsport.com/rss/f1/news/",
+      "motogp": "https://it.motorsport.com/rss/category/moto/news/"
     }    
   ],
   "timetable": {
