@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "name": "Tetr4ctis",
+      "url": "http://live.tetractis.it/live/motori/"
+    },
+    {
+      "name": "Sky Sport",
+      "url": "https://cache.sky.it/tetractis/statistiche/live/motori/json/"
+    },
+    {
+      "name": "Corriere dello Sport",
+      "url": "https://www.corrieredellosport.it/files/motori/"
+    },
+    {
+      "name": "TuttoSport",
+      "url": "https://www.tuttosport.com/files/motori/"
+    },
+    {
+      "name": "Quotidiano.net",
+      "url": "https://risultati.quotidiano.net/2016-2017/motori/lib/json/"
+    }    
+  ],
+  "news": [
+    {
+      "name": "Gazzetta dello Sport",
+      "f1": "https://www.gazzetta.it/rss/formula-1.xml",
+      "motogp": "https://www.gazzetta.it/rss/motociclismo.xml"
+    },
+    {
+      "name": "Corriere dello Sport",
+      "f1": "https://www.corrieredellosport.it/rss/formula-1",
+      "motogp": "https://www.corrieredellosport.it/rss/moto"
+    },
+    {
+      "name": "Eurosport",
+      "f1": "https://it.eurosport.com/formula-1/rss.xml",
+      "motogp": "https://it.eurosport.com/motogp/rss.xml"
+    },
+    {
+      "name": "MotorSport",
+      "f1": "https://it.motorsport.com/rss/f1/news/",
+      "motogp": "https://it.motorsport.com/rss/category/moto/news/"
+    }
+  ],
+  "timetable": {
+    "f1": "https://www.formulapassion.it/motorsport/formula-1/calendario-f1-2020-orari-sky-tv8-dirette",
+    "motogp": "https://www.formulapassion.it/motorsport/moto/calendario-motogp-2020-orari-sky-tv8-dirette"
+  }
+}
