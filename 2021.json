@@ -1,6 +1,10 @@
 {
   "results": [
     {
+      "name": "Gazzetta",
+      "url": "https://api2-mtc.gazzetta.it/api/v1/sports/calendar"
+    },
+    {
       "name": "Tetr4ctis",
       "url": "http://live.tetractis.it/live/motori/"
     },
