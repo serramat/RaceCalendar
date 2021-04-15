@@ -1,7 +1,7 @@
 {
   "results": [
     {
-      "name": "Gazzetta",
+      "name": "Gazzetta dello Sport",
       "url": "https://api2-mtc.gazzetta.it/api/v1/sports/calendar"
     },
     {
